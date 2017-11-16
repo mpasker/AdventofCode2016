@@ -1,0 +1,11 @@
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\obj\Debug\AdventofCodeTests.csprojResolveAssemblyReference.cache
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\AdventofCodeTests.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\AdventofCodeTests.pdb
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\AdventofCode.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\nunit.framework.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\AdventofCode.pdb
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\nunit.framework.xml
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\obj\Debug\AdventofCodeTests.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCodeTests\obj\Debug\AdventofCodeTests.pdb

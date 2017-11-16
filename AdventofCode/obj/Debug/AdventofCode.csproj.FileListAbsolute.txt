@@ -1,0 +1,6 @@
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCode\obj\Debug\AdventofCode.csprojResolveAssemblyReference.cache
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCode\bin\Debug\AdventofCode.dll.config
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCode\bin\Debug\AdventofCode.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCode\bin\Debug\AdventofCode.pdb
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCode\obj\Debug\AdventofCode.dll
+C:\Users\mpasker\Documents\Work\AdventofCode\AdventofCode\obj\Debug\AdventofCode.pdb
